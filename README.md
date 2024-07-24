@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 My name is Viktor
 
-<!--
-**ViktorBed/ViktorBed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A am a frontend developer from Ukraine
 
-Here are some ideas to get you started:
+- 📫 How to reach me **123**
+- ⚡ Fun fact **123**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn](https://www.linkedin.com/in/viktor-bednarski-8a5b2a207/)
+
+### Languages and Tools:
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorBed&show_icons=true&theme=radical)
+
+### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorBed&layout=compact)
