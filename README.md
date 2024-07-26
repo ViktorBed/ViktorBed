@@ -7,15 +7,6 @@
 <a href="https://www.linkedin.com/in/viktor-bednarski-8a5b2a207/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ViktorBed" height="30" width="40" />
 </a>
-<a href="https://t.me/miktorrrrr" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
-</a>
-<a href="https://mail.ukr.net/desktop#msglist/f0/p0" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Communication/ukr-net.svg" alt="UkrNet" height="30" width="40" />
-</a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Communication/gmail.svg" alt="Gmail" height="30" width="40" />
-</a>
 
 </p>
 
