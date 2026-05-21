@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 My name is Viktor </h1>
 
-<h3 align="center">A am a frontend developer from Ukraine</h3> 
+<h3 align="center">I am a frontend developer from Ukraine</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,23 +68,18 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-atlas" width="40" height="40"/>
-  </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
   </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/n8nio/n8nio-icon.svg" alt="n8n" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude-code" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="claude-code" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViktorBed&show_icons=true&locale=en&layout=compact" alt="ViktorBed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktorBed&show_icons=true&locale=en" alt="ViktorBed" /></p>
