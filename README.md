@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 My name is Viktor </h1>
 
-<h3 align="center">I am a frontend developer from Ukraine</h3> 
+<h3 align="center">I am a fullstack developer from Ukraine</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
